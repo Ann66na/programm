@@ -1,2 +1,2 @@
 # My first programm code
-# Thanks)
+# Thanks you
